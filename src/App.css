@@ -1,0 +1,11 @@
+.header-color {
+background: #C04848; 
+background: -webkit-linear-gradient(to left, #480048, #C04848);  
+background: linear-gradient(to left, #480048, #C04848); 
+}
+
+.landing-grid{
+background: #C04848; 
+background: -webkit-linear-gradient(to left, #480048, #C04848);  
+background: linear-gradient(to left, #480048, #C04848); 
+}
